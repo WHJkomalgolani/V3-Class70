@@ -15,4 +15,9 @@ Bottom Tab navigation config: https://reactnavigation.org/docs/en/bottom-tab-nav
 
 Snack link: https://snack.expo.io/@komalgolani/v3-class70
 
+Special Note:
+C70 – Customize the appearance of the bottom tabs by adding
+custom icons/images to it, design the input form for the issue/return screen of the app and write code to autofill the input box when book id and student
+id are scanned.
+Check out in phone.
 
