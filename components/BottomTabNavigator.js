@@ -39,12 +39,12 @@ export default class BottomTabNavigator extends Component {
             activeTintColor: "#FFFFFF",
             inactiveTintColor: "black",
             style: {
-              height: 130,
+              height: 50,
               borderTopWidth: 0,
               backgroundColor: "#5653d4"
             },
             labelStyle: {
-              fontSize: 20,
+              fontSize: 10,
               fontFamily: "Rajdhani_600SemiBold"
             },
             labelPosition: "beside-icon",
